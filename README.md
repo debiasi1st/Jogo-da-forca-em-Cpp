@@ -18,6 +18,3 @@ Jogo da Forca desenvolvido em C++ para execução em terminal.
 - Geração de números aleatórios (`rand`, `srand`)
 - Entrada e saída via terminal
 
-## Autor
-Gabriel Debiasi  
-Outubro/2025
